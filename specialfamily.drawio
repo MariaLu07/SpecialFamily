@@ -441,34 +441,34 @@
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-63" value="atributos: necessidade; causa, sintomas, tratamento, diagnostico" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="242.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-64" value="&quot;TDAH&quot;; &quot;fatores_geneticos&quot;; &quot;Desatenção&quot;; &quot;Terapia_comportamental&quot;; &quot;psicologos&quot;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-64" value="&quot;TDAH&quot;; &quot;fatores_geneticos&quot;; &quot;Desatenção&quot;; &quot;Terapia_comportamental&quot;; &quot;psicologos&quot;." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="242.5" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnRX3_D4yvcWmmUJDqbK-66" target="OnRX3_D4yvcWmmUJDqbK-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-66" value="blog" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="322.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnRX3_D4yvcWmmUJDqbK-68" target="OnRX3_D4yvcWmmUJDqbK-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-68" value="classe:" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-68" value="classe:&lt;div&gt;string&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="310" width="70" height="65" as="geometry" />
         </mxCell>
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnRX3_D4yvcWmmUJDqbK-70" target="OnRX3_D4yvcWmmUJDqbK-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-70" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-70" value="atributos: nome, necessidade especial, comentario" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="322.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-71" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-71" value="&quot;Rafael_da_silva&quot;; &quot;autismo&quot;; &quot;meu filho tem autismo&quot;." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="322.5" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnRX3_D4yvcWmmUJDqbK-73" target="OnRX3_D4yvcWmmUJDqbK-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-73" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-73" value="doacao" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="402.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnRX3_D4yvcWmmUJDqbK-75" target="OnRX3_D4yvcWmmUJDqbK-77">
@@ -480,10 +480,10 @@
         <mxCell id="OnRX3_D4yvcWmmUJDqbK-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OnRX3_D4yvcWmmUJDqbK-77" target="OnRX3_D4yvcWmmUJDqbK-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-77" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-77" value="atributos: nome, conta, valor." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="402.5" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OnRX3_D4yvcWmmUJDqbK-78" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OnRX3_D4yvcWmmUJDqbK-78" value="&quot;Joice_Lira&quot;; &quot;4786.5479.2123.1334&quot;; &quot;50_reais&quot;." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="402.5" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
